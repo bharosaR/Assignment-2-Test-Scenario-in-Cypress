@@ -1,0 +1,13 @@
+{
+  "firstName": "Jasmine",
+  "middleName": "Juliet",
+  "lastName": "Raspberry",
+  "vacancy": "Software Engineer",
+  "email": "jasjuli123@gmail.com",
+  "contactNumber": "+9779834562719",
+  "resumePath": "cypress/fixtures/DB task.pdf",
+  "keywords": "Automation, Cypress, QA",
+  "dateOfApplication": "2025-01-27",
+  "notes": "Experienced in Cypress test automation framework.",
+  "consent": true
+}
