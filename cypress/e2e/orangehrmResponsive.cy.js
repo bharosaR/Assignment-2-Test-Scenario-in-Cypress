@@ -36,7 +36,7 @@ describe("OrangeHRM Mobile Responsiveness", () => {
       );
 
       // Wait for a few seconds to let the page adjust for responsiveness
-      cy.wait(5000); // Adjust time in milliseconds as needed (2000 ms = 2 seconds)
+      cy.wait(5000); // Adjust time in milliseconds as needed (5000 ms = 5 seconds)
     });
   });
 });
